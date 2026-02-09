@@ -4,7 +4,6 @@ Pe=91.2
 Stu=["Rohith",29,91.2]
 print(type(Stu))
 print(Stu)
-print(Stu[0])"""
 
 DOW=["Mon","Tue","Wed","Thur","Fri","Sat","Sun"]
 print(type(DOW))

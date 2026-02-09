@@ -1,0 +1,12 @@
+#fs1=frozenset({1,3,'Rohith',True,6.7,100})
+#print(fs1, type(fs1))
+
+fs1=frozenset({1,5,8,7,3})
+fs2=frozenset({1,6,7,3,9})
+print(fs1)
+print(fs2)
+print(fs1|fs2)
+print(fs1&fs2)
+print(fs1^fs2)
+print(fs1-fs2)
+print(fs2-fs1)
